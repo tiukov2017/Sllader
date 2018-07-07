@@ -9,5 +9,5 @@ function Hello(){
 		<h1>Hello World!</h1>)
 }
 
-ReactDOM.render(<Hello />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
